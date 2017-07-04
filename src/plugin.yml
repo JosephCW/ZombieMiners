@@ -1,0 +1,6 @@
+name: SlowerSkeletons
+version: 1.0
+description: Apply a slow debuff after skeletons fire an arrow
+authors: [JosephCW]
+website: http://www.github.com/josephcw/SlowerSkeletons
+main: com.josephcw.slowerskeletons.SlowerSkeletons
