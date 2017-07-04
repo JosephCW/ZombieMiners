@@ -23,7 +23,6 @@ public class SkeletonFireListener implements Listener {
 	private boolean isSkeletonFiringArrow(EntityShootBowEvent bowFireEvent) {
 		EntityType et = bowFireEvent.getEntityType();
 		if (et == EntityType.SKELETON
-				|| et == EntityType.SKELETON_HORSE
 				|| et == EntityType.WITHER_SKELETON) {
 			return true;
 		}
