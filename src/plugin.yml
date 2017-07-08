@@ -1,6 +1,6 @@
-name: SlowerSkeletons
+name: ZombieMiners
 version: 1.0
-description: Apply a slow debuff after skeletons fire an arrow
+description: Zombies randomly pawn holding pickaxes.
 authors: [JosephCW]
-website: http://www.github.com/josephcw/SlowerSkeletons
-main: com.josephcw.slowerskeletons.SlowerSkeletons
+website: http://www.github.com/josephcw/ZombieMiners
+main: com.josephcw.zombieminers.ZombieMiners
