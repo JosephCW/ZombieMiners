@@ -20,7 +20,7 @@ public class ZombieSpawnLitener implements Listener {
 		}
 		
 		Random r = new Random();
-		int randomNumber = r.nextInt(2)+1;
+		int randomNumber = r.nextInt(25)+1;
 		if (randomNumber == 1) {
 			giveEntityPickaxeBasedOnLocation(event.getEntity());
 		}
