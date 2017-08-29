@@ -1,6 +1,6 @@
 name: ZombieMiners
-version: 1.0
-description: Zombies randomly pawn holding pickaxes.
+version: 1.0.1
+description: Zombies randomly spawn holding pickaxes.
 authors: [JosephCW]
 website: http://www.github.com/josephcw/ZombieMiners
 main: com.josephcw.zombieminers.ZombieMiners
